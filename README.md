@@ -30,5 +30,5 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 # Links
-https://dexburns25.github.io/budgettracker/
-https://calm-oasis-32152.herokuapp.com/
+- https://dexburns25.github.io/budgettracker/
+- https://calm-oasis-32152.herokuapp.com/
